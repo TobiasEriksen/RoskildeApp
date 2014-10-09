@@ -1,0 +1,471 @@
+{"Restaurent":[
+    {
+        "UniqueId": "1",
+        "Title": "Mc Donalds",
+        "RestaurantImage": "/Images/restaurant/mcd1.png",
+        "Logo": "/Images/logos/mcd.jpg",
+        "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non lacus a urna volutpat molestie. In dapibus commodo volutpat. Praesent egestas elit sed pretium rutrum. Nunc commodo nunc libero, vitae euismod mauris dignissim quis. Vestibulum facilisis ligula eu consequat finibus.\n\nQuisque lobortis aliquam arcu, non cursus velit rhoncus sit amet. Nunc ut egestas neque, vitae ultricies justo. Nullam libero arcu, ultrices vel eros eu, laoreet efficitur enim. Integer consectetur enim vitae odio suscipit gravida",
+        "OpenTimes": "Mandag til Soendag: 07:00 - 01:00",
+        "Adress": "Ringstedgade 76\n4000 Roskilde\n\nKoebenhavnsvej 118\n4000 Roskilde",
+        "MapImage": "/Images/map/mcd_map.jpg",
+        "MapDirection":  "Turen til McDonalds paa Koebenhavnsvej, er paa 1,8km, ca. 22 minutters gang.\n\nTuren til McDonalds paa Ringstedgade, er paa 1,3km, ca. 15 minutters gang.",
+        "LargeImage": "/Images/large/mcd.png",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "1",
+                "Title": "Big Mac",
+                "ImagePath": "/Images/menu/mcd_burger1.png",
+                "Description": "Vores nye saftige burger er forkaeldet med en Hereford-boef paa 170 gram, og en laekker ananas-chipotte chutney og en let roeget Chipotte-mayo. Smeltet cheddarost, salat, tomater, loegringe og pikante pickles fulender den gode burgersmag.",
+                "Price": "35",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "2",
+                "RestaurentId": "1",
+                "Title": "Cheeseburger",
+                "ImagePath": "/Images/menu/mcd_burger2.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "10",
+                "Sale": "20,99"
+            },
+            {
+                "UniqueId": "3",
+                "RestaurentId": "1",
+                "Title": "Hamburger",
+                "ImagePath": "/Images/menu/mcd_burger3.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "10",
+                "Sale": "20,99"
+            },
+            {
+                "UniqueId": "4",
+                "RestaurentId": "1",
+                "Title": "Mc Chicken",
+                "ImagePath": "/Images/menu/mcd_burger4.png",
+                "Description": "Peberfrugt og vores let roeget BBQ-sause, giver den saftige kylling helt nye udfordringer. I en lun, sproed Italiensk inspireret bolle moedes de solmodne tomater, loegringe og frisk salatblade, mens en smule mayounnaise balancerer smagen.",
+                "Price": "20",
+                "Sale": "20,99"
+            },
+            {
+                "UniqueId": "5",
+                "RestaurentId": "1",
+                "Title": "Quater Pounder",
+                "ImagePath": "/Images/menu/mcd_burger5.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "25",
+                "Sale": "20,99"
+            },
+            {
+                "UniqueId": "6",
+                "RestaurentId": "1",
+                "Title": "Big Tasty Bacon",
+                "ImagePath": "/Images/menu/mcd_burger6.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "35",
+                "Sale": "20,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "2",
+        "Title": "Dominos",
+        "RestaurantImage": "/Images/restaurant/domino.png",
+        "Logo": "/Images/logos/domino.gif",
+        "Description": "Dominos Pizza er bosat i Roskilde taet paa det nye stor center: Ro's Torv. Hos Dominos Pizza for man nogle af de bedste pizza. Menu udover vores saerlige pizza'ere kan vi ogsaa tilbyde en lang raekke andre mad muligheder.",
+        "OpenTimes": "Alle Dage fra: 11:00 - 22:00",
+        "Adress": "Ro's Torv Koebenhavnsvej 29-39\n4000 Roskilde",
+        "MapImage": "/Images/map/domino_map.jpg",
+        "MapDirection": "Turen Til Dominos pizza, er paa 800m, ca. 10 minutters gang.",
+        "LargeImage" :  "/Images/large/dominolarge.png",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Vegetar",
+                "ImagePath": "/Images/menu/domino1.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "64",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "2",
+                "RestaurentId": "2",
+                "Title": "Pepperoni",
+                "ImagePath": "/Images/menu/domino2.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "64",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "3",
+                "RestaurentId": "2",
+                "Title": "New York",
+                "ImagePath": "/Images/menu/domino3.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "64",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "4",
+                "RestaurentId": "2",
+                "Title": "Hawaiian",
+                "ImagePath": "/Images/menu/domino4.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "64",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "5",
+                "RestaurentId": "2",
+                "Title": "Spicy Chicken",
+                "ImagePath": "/Images/menu/domino5.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "64",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "6",
+                "RestaurentId": "2",
+                "Title": "Domino's Classic",
+                "ImagePath": "/Images/menu/domino6.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "64",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "3",
+        "Title": "Sunset",
+        "RestaurantImage": "/Images/restaurant/sunset.png",
+        "Logo": "/Images/logos/SunSet.jpg",
+        "Description": "SunSet Boulevard er bosat i hjertet af Roskilde i det nye stor center: Ro's Torv, som blev opfoert i 2009. Hos SunSet for man en bred vifte af laekker mad, lige fra kolde sandwicher, grillede sandwicher, burger, boernemenuer og salater.",
+        "OpenTimes": "Mandag til Loerdag: 10:00 - 21:00\nSoendag: 11:00 - 21:00",
+        "Adress": "Ro's Torv Koebenhavnsvej 29-39\n4000 Roskilde",
+        "MapImage": "/Images/map/sunset_map.jpg",
+        "MapDirection": "Turen til Sunset Boulevard, er paa 800m, ca. 10 minuters gang.",
+        "LargeImage" :  "/Images/large/sunsetlarge.png",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "3",
+                "Title": "Sunset Club",
+                "ImagePath": "/Images/menu/sunset1.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "20",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "2",
+                "RestaurentId": "3",
+                "Title": "Original Burger",
+                "ImagePath": "/Images/menu/sunset2.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "25",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "3",
+                "RestaurentId": "3",
+                "Title": "Classic Ham",
+                "ImagePath": "/Images/menu/sunset3.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "20",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "4",
+                "RestaurentId": "3",
+                "Title": "Herefond Burger",
+                "ImagePath": "/Images/menu/sunset4.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "35",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "5",
+                "RestaurentId": "3",
+                "Title": "California",
+                "ImagePath": "/Images/menu/sunset5.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "35",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "6",
+                "RestaurentId": "3",
+                "Title": "Sandwichbolle",
+                "ImagePath": "/Images/menu/sunset6.png",
+                "Description": "Proin non pulvinar quam, nec ultrices lectus. Donec eleifend tortor a cursus lacinia. Donec hendrerit suscipit varius. Quisque id leo fermentum, imperdiet est vel, convallis sem. Phasellus eget pharetra augue, eget pretium dolor. Cras fermentum gravida erat, et ultricies arcu facilisis ut. Fusce commodo mi sit amet sem suscipit fermentum. Aenean hendrerit interdum arcu, id bibendum augue vehicula sed.",
+                "Price": "20",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "4",
+        "Title": "Burger King",
+        "RestaurantImage": "/Images/restaurant/burgerking.jpg",
+        "Logo": "/Images/logos/burgerking.jpg",
+        "Description": "Burger King er bosat to steder i Roskilde, den ene i det nye stor center: Ro's Torv. Den anden og nyeste af Burger Kings resturanter er paa koegevej. Hos Burger King for man en bred vifte af laekker mad.",
+        "OpenTimes": "Soendag til Torsdag: 09:00 - 02:00\nFredag til Loerdag: 09:00 - 04:00",
+        "Adress": "Koegevej 101\n4000 Roskilde\n\nRo's Torv Koebenhavnsvej 29-39\n4000 Roskilde",
+        "MapImage": "/Images/map/bk_map.jpg",
+        "MapDirection": "",
+        "LargeImage" :  "/Images/large/bklarge.png",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "2",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "3",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "4",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "5",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            },
+            {
+                "UniqueId": "6",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "5",
+        "Title": "Restaurent 5",
+        "RestaurantImage": "RestaurantImage 5",
+        "Logo": "/Images/logos/default.png",
+        "Description": "",
+        "OpenTimes": "",
+        "Adress": "",
+        "MapImage": "",
+        "MapDirection": "",
+        "LargeImage" :  "",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "6",
+        "Title": "Restaurent 5",
+        "RestaurantImage": "RestaurantImage 5",
+        "Logo": "/Images/logos/default.png",
+        "Description": "",
+        "OpenTimes": "",
+        "Adress": "",
+        "MapImage": "",
+        "MapDirection": "",
+        "LargeImage" :  "",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "7",
+        "Title": "Restaurent 5",
+        "RestaurantImage": "RestaurantImage 5",
+        "Logo": "/Images/logos/default.png",
+        "Description": "",
+        "OpenTimes": "",
+        "Adress": "",
+        "MapImage": "",
+        "MapDirection": "",
+        "LargeImage" :  "",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "8",
+        "Title": "Restaurent 5",
+        "RestaurantImage": "RestaurantImage 5",
+        "Logo": "/Images/logos/default.png",
+        "Description": "",
+        "OpenTimes": "",
+        "Adress": "",
+        "MapImage": "",
+        "MapDirection": "",
+        "LargeImage" :  "",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "9",
+        "Title": "Restaurent 5",
+        "RestaurantImage": "RestaurantImage 5",
+        "Logo": "/Images/logos/default.png",
+        "Description": "",
+        "OpenTimes": "",
+        "Adress": "",
+        "MapImage": "",
+        "MapDirection": "",
+        "LargeImage" :  "",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "10",
+        "Title": "Restaurent 5",
+        "RestaurantImage": "RestaurantImage 5",
+        "Logo": "/Images/logos/default.png",
+        "Description": "",
+        "OpenTimes": "",
+        "Adress": "",
+        "MapImage": "",
+        "MapDirection": "",
+        "LargeImage" :  "",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "11",
+        "Title": "Restaurent 5",
+        "RestaurantImage": "RestaurantImage 5",
+        "Logo": "/Images/logos/default.png",
+        "Description": "",
+        "OpenTimes": "",
+        "Adress": "",
+        "MapImage": "",
+        "MapDirection": "",
+        "LargeImage" :  "",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            }
+        ]
+    },
+    {
+        "UniqueId": "12",
+        "Title": "Restaurent 5",
+        "RestaurantImage": "RestaurantImage 5",
+        "Logo": "/Images/logos/default.png",
+        "Description": "",
+        "OpenTimes": "",
+        "Adress": "",
+        "MapImage": "",
+        "MapDirection": "",
+        "LargeImage" :  "",
+
+        "Menu": [
+            {
+                "UniqueId": "1",
+                "RestaurentId": "2",
+                "Title": "Burger",
+                "ImagePath": "Assets/images/front/race1.png",
+                "Description": "Beskrivelse",
+                "Price": "29,00",
+                "Sale": "24,99"
+            }
+        ]
+    }
+]
+}

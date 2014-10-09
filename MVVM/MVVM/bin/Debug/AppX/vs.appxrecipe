@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATHIAS</Machine>
+    <WindowsUser>mathi_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>90bc2066-f65a-4ac5-b7b4-ad7ab67b2319</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8A66BFD1696F4DE5A5946F00CDB5CFEA79556AE84096B7F087727717BF10AE0A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>90bc2066-f65a-4ac5-b7b4-ad7ab67b2319_1.0.0.0_neutral__hf3m84ngvpew4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>90bc2066-f65a-4ac5-b7b4-ad7ab67b2319_hf3m84ngvpew4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>90bc2066-f65a-4ac5-b7b4-ad7ab67b2319</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mathi_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-09T09:43:55.033</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\MVVM.exe">
+      <PackagePath>MVVM.exe</PackagePath>
+      <Modified>2014-10-09T09:43:54.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\app\AppBackground.png">
+      <PackagePath>Images\app\AppBackground.png</PackagePath>
+      <Modified>2014-10-08T10:09:43.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\app\next.png">
+      <PackagePath>Images\app\next.png</PackagePath>
+      <Modified>2014-10-08T11:31:01.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\app\prev.png">
+      <PackagePath>Images\app\prev.png</PackagePath>
+      <Modified>2014-10-08T11:31:01.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\app\price.png">
+      <PackagePath>Images\app\price.png</PackagePath>
+      <Modified>2014-10-08T13:15:12.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\large\bklarge.png">
+      <PackagePath>Images\large\bklarge.png</PackagePath>
+      <Modified>2014-10-09T09:40:21.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\large\dominolarge.png">
+      <PackagePath>Images\large\dominolarge.png</PackagePath>
+      <Modified>2014-10-08T17:24:02.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\large\mcd.png">
+      <PackagePath>Images\large\mcd.png</PackagePath>
+      <Modified>2014-10-08T17:00:06.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\large\sunsetlarge.png">
+      <PackagePath>Images\large\sunsetlarge.png</PackagePath>
+      <Modified>2014-10-09T08:46:28.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\logos\default.png">
+      <PackagePath>Images\logos\default.png</PackagePath>
+      <Modified>2014-10-08T11:19:56.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\domino1.png">
+      <PackagePath>Images\menu\domino1.png</PackagePath>
+      <Modified>2014-10-08T17:16:56.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\domino2.png">
+      <PackagePath>Images\menu\domino2.png</PackagePath>
+      <Modified>2014-10-08T17:16:56.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\domino3.png">
+      <PackagePath>Images\menu\domino3.png</PackagePath>
+      <Modified>2014-10-08T17:16:56.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\domino4.png">
+      <PackagePath>Images\menu\domino4.png</PackagePath>
+      <Modified>2014-10-08T17:16:56.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\domino5.png">
+      <PackagePath>Images\menu\domino5.png</PackagePath>
+      <Modified>2014-10-08T17:16:56.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\domino6.png">
+      <PackagePath>Images\menu\domino6.png</PackagePath>
+      <Modified>2014-10-08T17:16:56.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\sunset1.png">
+      <PackagePath>Images\menu\sunset1.png</PackagePath>
+      <Modified>2014-10-09T08:56:21.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\sunset2.png">
+      <PackagePath>Images\menu\sunset2.png</PackagePath>
+      <Modified>2014-10-09T08:56:21.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\sunset3.png">
+      <PackagePath>Images\menu\sunset3.png</PackagePath>
+      <Modified>2014-10-09T08:56:21.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\sunset4.png">
+      <PackagePath>Images\menu\sunset4.png</PackagePath>
+      <Modified>2014-10-09T08:56:21.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\sunset5.png">
+      <PackagePath>Images\menu\sunset5.png</PackagePath>
+      <Modified>2014-10-09T08:56:21.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\sunset6.png">
+      <PackagePath>Images\menu\sunset6.png</PackagePath>
+      <Modified>2014-10-09T08:56:21.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\restaurant\domino.png">
+      <PackagePath>Images\restaurant\domino.png</PackagePath>
+      <Modified>2014-10-08T17:12:23.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\mcd_burger1.png">
+      <PackagePath>Images\menu\mcd_burger1.png</PackagePath>
+      <Modified>2014-10-08T13:24:39.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\mcd_burger2.png">
+      <PackagePath>Images\menu\mcd_burger2.png</PackagePath>
+      <Modified>2014-10-08T13:12:36.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\mcd_burger3.png">
+      <PackagePath>Images\menu\mcd_burger3.png</PackagePath>
+      <Modified>2014-10-08T13:12:36.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\mcd_burger4.png">
+      <PackagePath>Images\menu\mcd_burger4.png</PackagePath>
+      <Modified>2014-10-08T13:12:36.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\mcd_burger5.png">
+      <PackagePath>Images\menu\mcd_burger5.png</PackagePath>
+      <Modified>2014-10-08T13:24:39.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\menu\mcd_burger6.png">
+      <PackagePath>Images\menu\mcd_burger6.png</PackagePath>
+      <Modified>2014-10-08T13:12:36.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\restaurant\mcd1.png">
+      <PackagePath>Images\restaurant\mcd1.png</PackagePath>
+      <Modified>2014-10-08T12:10:48.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\restaurant\sunset.png">
+      <PackagePath>Images\restaurant\sunset.png</PackagePath>
+      <Modified>2014-10-09T08:46:07.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\logos\burgerking.jpg">
+      <PackagePath>Images\logos\burgerking.jpg</PackagePath>
+      <Modified>2014-10-08T08:01:55.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\map\bk_map.jpg">
+      <PackagePath>Images\map\bk_map.jpg</PackagePath>
+      <Modified>2014-10-09T09:40:41.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\map\sunset_map.jpg">
+      <PackagePath>Images\map\sunset_map.jpg</PackagePath>
+      <Modified>2014-10-09T08:45:23.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\restaurant\burgerking.jpg">
+      <PackagePath>Images\restaurant\burgerking.jpg</PackagePath>
+      <Modified>2014-10-09T09:40:04.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\logos\mcd.jpg">
+      <PackagePath>Images\logos\mcd.jpg</PackagePath>
+      <Modified>2014-10-08T11:17:27.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\logos\SunSet.jpg">
+      <PackagePath>Images\logos\SunSet.jpg</PackagePath>
+      <Modified>2014-10-08T11:18:32.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\map\domino_map.jpg">
+      <PackagePath>Images\map\domino_map.jpg</PackagePath>
+      <Modified>2014-10-08T17:10:17.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\map\mcd_map.jpg">
+      <PackagePath>Images\map\mcd_map.jpg</PackagePath>
+      <Modified>2014-10-08T14:31:36.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Images\logos\domino.gif">
+      <PackagePath>Images\logos\domino.gif</PackagePath>
+      <Modified>2014-10-08T08:01:55.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\Model\SampleData.json">
+      <PackagePath>Model\SampleData.json</PackagePath>
+      <Modified>2014-10-09T09:55:14.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-08T17:46:58.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+      <Modified>2014-10-08T17:47:42.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\View\Map.xbf">
+      <PackagePath>View\Map.xbf</PackagePath>
+      <Modified>2014-10-08T15:12:49.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\View\Menu.xbf">
+      <PackagePath>View\Menu.xbf</PackagePath>
+      <Modified>2014-10-08T17:46:58.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\View\MenuItem.xbf">
+      <PackagePath>View\MenuItem.xbf</PackagePath>
+      <Modified>2014-10-08T17:46:58.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\View\Restaurant.xbf">
+      <PackagePath>View\Restaurant.xbf</PackagePath>
+      <Modified>2014-10-08T15:12:49.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\MVVM.xr.xml">
+      <PackagePath>MVVM.xr.xml</PackagePath>
+      <Modified>2014-10-08T17:47:42.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mathi_000\Documents\Visual Studio 2013\Projects\MVVM\MVVM\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-09T09:43:54.809</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
